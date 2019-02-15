@@ -1,0 +1,11 @@
+{
+  "name": "discord-assistant",
+  "version": "1.0.0",
+  "description": "it bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "tjwds",
+  "license": "ISC"
+}
