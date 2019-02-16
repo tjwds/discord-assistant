@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "discord.io": "github:woor/discord.io#gateway_v6",
-    "elizabot": "0.0.2"
+    "elizabot": "0.0.2",
+    "firebase": "^5.8.3",
+    "moment": "^2.24.0"
   }
 }
