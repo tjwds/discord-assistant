@@ -4,8 +4,13 @@
   "description": "it bot",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "node ./src/index.js"
   },
   "author": "tjwds",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "elizabot": "0.0.2"
+  }
 }
